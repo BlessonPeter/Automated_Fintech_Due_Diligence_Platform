@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" alt="Metabase"/>
 </p>
 
-An end-to-end data engineering and analytics platform designed to automate corporate due diligence in India. The platform consolidates public corporate registry data, insolvency records, regional financial statistics, and historical monetary policy indicators into a unified analytical workflow for lenders, investors, and corporate buyers.
-
 This repository contains the end-to-end data pipeline and platform engineered for a fintech due diligence client. Traditionally, corporate due diligence in India requires analysts to manually assess target companies one by one across multiple fragmented sources, specifically the Ministry of Corporate Affairs (MCA) registry, the Insolvency and Bankruptcy Board of India (IBBI) portal, and manual spreadsheets. This platform unifies and automates that entire process into a single interface as analytical workflow for lenders, investors, and corporate buyers.
 
 By integrating automated extraction, data transformation, and orchestration layers, the platform instantly answers four critical analytical questions for lenders and buyers prior to a transaction:
